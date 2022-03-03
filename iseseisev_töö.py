@@ -1,6 +1,8 @@
 # 03.03.2022
 # iseseisev töö
 # Kristofer Andres
+
+#matemaatika harjutused
 import random
 loop = 0
 oige = 0
